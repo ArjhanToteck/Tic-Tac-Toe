@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Tic Tac Toe
 This is a brutally simple game made simply to teach how to make an online game. Play it if you want or use it as scaffolding for your own games.
 
 # License
